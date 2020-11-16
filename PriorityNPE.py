@@ -49,6 +49,7 @@ def findWaitingTime(processes):
         dummy.pop(j)
 
     print(seq)
+    return processes,seq
     
 
 
