@@ -8,6 +8,6 @@ Scheduling algorithms visualisation done as part of course project for Operating
 - [X] Priority NPE
 - [X] Priority PE
 - [X] Round Robin
-- [ ] HRRN
+- [X] HRRN
 
 
