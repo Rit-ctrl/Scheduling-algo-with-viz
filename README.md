@@ -6,12 +6,12 @@ Scheduling algorithms visualisation done as part of course project for Operating
   The videos can be found at [Videos folder](https://github.com/Rit-ctrl/Scheduling-algo-with-viz/tree/main/Video_and_scripts/media/videos)
 
 ## Algorithms done:
-- [X] FCFS 
-- [X] SJF PE
-- [X] SJF NPE
-- [X] Priority NPE
-- [X] Priority PE
+- [X] First Come First Serve 
+- [X] Shortest Job First Pre Emptive
+- [X] Shortest Job First Non Pre Emptive
+- [X] Priority Non Pre Emptive
+- [X] Priority Pre Emptive
 - [X] Round Robin
-- [X] HRRN
+- [X] Highest Response Ratio Next
 
 
