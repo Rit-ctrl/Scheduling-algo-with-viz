@@ -3,7 +3,7 @@ Scheduling algorithms visualisation done as part of course project for Operating
 
 ## Videos 
 
-  The videos can be found at [Videos folder](Output/Videos)
+  The videos can be found at [Videos folder](https://github.com/Rit-ctrl/Scheduling-algo-with-viz/tree/main/Video_and_scripts/media/videos)
 
 ## Algorithms done:
 - [X] FCFS 
